@@ -1,0 +1,201 @@
+Card Name,Set,Rarity,Pre-PT Price,Post-PT Price,# Decks Total,#PT Main,#PT Side,#top 8 main,#top 8 side,card type,reprint?,price change,invert sqrt preprice,Price increase?
+,,,,,,,,,,,,,,
+Kinjallis+Sunwing,XLN,Rare,0.08,0.26,8,10,0,0,0,c,0,2.25,3.535533906,TRUE
+,,,,,,,,,,,,,,
+Legions+Landing,XLN,Rare,2.47,2.04,19,42,0,0,0,e,0,-0.174089069,0.636284763,FALSE
+,,,,,,,,,,,,,,
+Mavren+Fein+Dusk+Apostle,XLN,Rare,0.1,0.15,3,6,0,0,0,c,0,0.5,3.16227766,TRUE
+,,,,,,,,,,,,,,
+Settle+the+Wreckage,XLN,Rare,1.72,1.78,60,24,4,0,0,i,0,0.034883721,0.762492852,TRUE
+,,,,,,,,,,,,,,
+Search+for+Azcanta,XLN,Rare,4.02,3.4,87,56,8,4,0,e,0,-0.154228856,0.498754668,FALSE
+,,,,,,,,,,,,,,
+Arguels+Blood+Fast,XLN,Rare,0.28,0.25,18,0,14,0,0,e,0,-0.107142857,1.889822365,FALSE
+,,,,,,,,,,,,,,
+Deadeye+Tracker,XLN,Rare,0.15,0.09,20,0,16,0,0,c,0,-0.4,2.581988897,FALSE
+,,,,,,,,,,,,,,
+Vraskas+Contempt,XLN,Rare,3.19,2.57,82,64,58,4,0,i,0,-0.194357367,0.559892511,FALSE
+,,,,,,,,,,,,,,
+Rampaging+Ferocidon,XLN,Rare,1.32,1.47,80,40,120,0,10,c,0,0.113636364,0.87038828,TRUE
+,,,,,,,,,,,,,,
+Vances+Blasting+Cannons,XLN,Rare,0.31,0.11,2,0,2,0,0,e,0,-0.64516129,1.79605302,FALSE
+,,,,,,,,,,,,,,
+Deathgorge+Scavenger,XLN,Rare,1.84,1.43,158,0,126,0,6,c,0,-0.222826087,0.737209781,FALSE
+,,,,,,,,,,,,,,
+Hostage+Taker,XLN,Rare,2.62,3.14,45,70,0,6,0,c,0,0.198473282,0.617802063,TRUE
+,,,,,,,,,,,,,,
+Sorcerous+Spyglass,XLN,Rare,0.22,0.31,150,0,2,0,0,a,0,0.409090909,2.132007164,TRUE
+,,,,,,,,,,,,,,
+Treasure+Map,XLN,Rare,1.77,2.34,13,10,6,0,0,a,0,0.322033898,0.751646028,TRUE
+,,,,,,,,,,,,,,
+Dragonskull+Summit,XLN,Rare,0.9,0.75,49,48,0,0,0,l,1,-0.166666667,1.054092553,FALSE
+,,,,,,,,,,,,,,
+Drowned+Catacomb,XLN,Rare,1.38,1.01,66,92,0,0,0,l,1,-0.268115942,0.851256531,FALSE
+,,,,,,,,,,,,,,
+Glacial+Fortress,XLN,Rare,1.08,1.51,55,48,0,8,0,l,1,0.398148148,0.962250449,TRUE
+,,,,,,,,,,,,,,
+Rootbound+Crag,XLN,Rare,1.24,1,117,310,0,0,0,l,1,-0.193548387,0.89802651,FALSE
+,,,,,,,,,,,,,,
+Sunpetal+Grove,XLN,Rare,0.51,0.68,8,8,0,0,0,l,1,0.333333333,1.400280084,TRUE
+,,,,,,,,,,,,,,
+Carnage+Tyrant,XLN,Mythic Rare,12.63,7.59,46,6,6,0,0,c,0,-0.399049881,0.281383304,FALSE
+,,,,,,,,,,,,,,
+Vraska+Relic+Seeker,XLN,Mythic Rare,16.31,13.65,167,68,28,0,0,p,0,-0.163090129,0.247612759,FALSE
+,,,,,,,,,,,,,,
+Adorned+Pouncer,HOU,Rare,0.74,1.75,16,8,4,0,0,c,0,1.364864865,1.162476387,TRUE
+,,,,,,,,,,,,,,
+Hour+of+Revelation,HOU,Rare,0.11,0.29,7,0,4,0,0,s,0,1.636363636,3.015113446,TRUE
+,,,,,,,,,,,,,,
+Solemnity,HOU,Rare,0.47,0.8,14,0,10,0,0,e,0,0.70212766,1.458649915,TRUE
+,,,,,,,,,,,,,,
+Champion+of+Wits,HOU,Rare,3.96,4.27,34,32,0,8,0,c,0,0.078282828,0.502518908,TRUE
+,,,,,,,,,,,,,,
+Bontus+Last+Reckoning,HOU,Rare,3.48,1.64,33,8,20,0,0,s,0,-0.528735632,0.536056267,FALSE
+,,,,,,,,,,,,,,
+Hour+of+Glory,HOU,Rare,0.09,0.13,3,0,6,0,0,s,0,0.444444444,3.333333333,TRUE
+,,,,,,,,,,,,,,
+Earthshaker+Khenra,HOU,Rare,1.28,1.14,52,174,0,8,0,c,0,-0.109375,0.883883476,FALSE
+,,,,,,,,,,,,,,
+Hour+of+Devastation,HOU,Rare,0.78,0.98,3,4,0,0,0,s,0,0.256410256,1.132277034,TRUE
+,,,,,,,,,,,,,,
+God-Pharaohs+Gift,HOU,Rare,0.4,0.96,22,24,0,8,0,a,0,1.4,1.58113883,TRUE
+,,,,,,,,,,,,,,
+Hostile+Desert,HOU,Rare,0.26,0.31,18,0,2,0,2,l,0,0.192307692,1.961161351,TRUE
+,,,,,,,,,,,,,,
+Scavenger+Grounds,HOU,Rare,1.16,3,72,44,14,4,0,l,0,1.586206897,0.928476691,TRUE
+,,,,,,,,,,,,,,
+Crested+Sunmare,HOU,Mythic Rare,3.12,3.21,1,2,0,0,0,c,0,0.028846154,0.566138517,TRUE
+,,,,,,,,,,,,,,
+The+Locust+God,HOU,Mythic Rare,1.92,2.68,4,0,2,0,0,c,0,0.395833333,0.721687836,TRUE
+,,,,,,,,,,,,,,
+Nicol+Bolas+God-Pharaoh,HOU,Mythic Rare,3.51,4.85,2,2,8,0,0,p,0,0.381766382,0.533760513,TRUE
+,,,,,,,,,,,,,,
+The+Scarab+God,HOU,Mythic Rare,40.89,44.64,184,182,22,0,2,c,0,0.091709464,0.156383686,TRUE
+,,,,,,,,,,,,,,
+Anointed+Procession,AKH,Rare,1.01,0.95,14,24,0,0,0,e,0,-0.059405941,0.99503719,FALSE
+,,,,,,,,,,,,,,
+Approach+of+the+Second+Sun,AKH,Rare,0.25,0.3,25,16,4,0,0,s,0,0.2,2,TRUE
+,,,,,,,,,,,,,,
+Gideons+Intervention,AKH,Rare,0.2,0.31,16,0,8,0,0,e,0,0.55,2.236067977,TRUE
+,,,,,,,,,,,,,,
+Glory-Bound+Initiate,AKH,Rare,0.12,0.25,20,14,8,0,0,c,0,1.083333333,2.886751346,TRUE
+,,,,,,,,,,,,,,
+Regal+Caracal,AKH,Rare,1.08,0.97,29,0,14,0,0,c,0,-0.101851852,0.962250449,FALSE
+,,,,,,,,,,,,,,
+Glyph+Keeper,AKH,Rare,0.01,0.01,4,0,2,0,0,c,0,0,10,TRUE
+,,,,,,,,,,,,,,
+Pull+from+Tomorrow,AKH,Rare,0.12,0.3,16,0,2,0,0,i,0,1.5,2.886751346,TRUE
+,,,,,,,,,,,,,,
+Vizier+of+Many+Faces,AKH,Rare,0.17,0.21,121,8,134,0,0,c,0,0.235294118,2.42535625,TRUE
+,,,,,,,,,,,,,,
+Dread+Wanderer,AKH,Rare,0.71,0.3,11,32,0,0,0,c,0,-0.577464789,1.186781658,FALSE
+,,,,,,,,,,,,,,
+Glorybringer,AKH,Rare,3.55,3.21,186,272,76,0,4,c,0,-0.095774648,0.530744892,FALSE
+,,,,,,,,,,,,,,
+Harsh+Mentor,AKH,Rare,0.13,0.34,54,24,40,4,0,c,0,1.615384615,2.773500981,TRUE
+,,,,,,,,,,,,,,
+Soul-Scar+Mage,AKH,Rare,1.04,1.19,55,174,0,8,0,c,0,0.144230769,0.980580676,TRUE
+,,,,,,,,,,,,,,
+Dusk+Dawn,AKH,Rare,0.41,0.72,19,0,28,0,6,s,0,0.756097561,1.561737619,TRUE
+,,,,,,,,,,,,,,
+Canyon+Slough,AKH,Rare,0.9,0.71,43,44,0,4,0,l,0,-0.211111111,1.054092553,FALSE
+,,,,,,,,,,,,,,
+Fetid+Pools,AKH,Rare,2.14,1.85,58,112,0,4,0,l,0,-0.135514019,0.683585927,FALSE
+,,,,,,,,,,,,,,
+Irrigated+Farmland,AKH,Rare,2.48,2.95,48,36,0,6,0,l,0,0.189516129,0.635000635,TRUE
+,,,,,,,,,,,,,,
+Scattered+Groves,AKH,Rare,0.76,0.88,11,4,0,0,0,l,0,0.157894737,1.147078669,TRUE
+,,,,,,,,,,,,,,
+Sheltered+Thicket,AKH,Rare,1.47,1.22,139,122,0,0,0,l,0,-0.170068027,0.824786099,FALSE
+,,,,,,,,,,,,,,
+Angel+of+Sanctions,AKH,Mythic Rare,3.94,5.46,29,0,12,0,6,c,0,0.385786802,0.503792722,TRUE
+,,,,,,,,,,,,,,
+Gideon+of+the+Trials,AKH,Mythic Rare,10.77,9.88,44,4,4,0,0,p,0,-0.082636955,0.304713818,FALSE
+,,,,,,,,,,,,,,
+Oketra+the+True,AKH,Mythic Rare,1.25,1.89,5,4,0,0,0,c,0,0.512,0.894427191,TRUE
+,,,,,,,,,,,,,,
+Bontu+the+Glorified,AKH,Mythic Rare,0.68,0.86,4,2,0,0,0,c,0,0.264705882,1.212678125,TRUE
+,,,,,,,,,,,,,,
+Liliana+Deaths+Majesty,AKH,Mythic Rare,3.77,4.21,16,2,0,0,0,p,0,0.116710875,0.515026203,TRUE
+,,,,,,,,,,,,,,
+Hazoret+the+Fervent,AKH,Mythic Rare,15.6,14.12,81,214,0,14,0,c,0,-0.094871795,0.253184842,FALSE
+,,,,,,,,,,,,,,
+Rhonas+the+Indomitable,AKH,Mythic Rare,4.02,4.6,25,10,6,0,0,c,0,0.144278607,0.498754668,TRUE
+,,,,,,,,,,,,,,
+Nissa+Steward+of+Elements,AKH,Mythic Rare,4.47,7.87,159,2,148,0,4,p,0,0.760626398,0.47298377,TRUE
+,,,,,,,,,,,,,,
+Baral+Chief+of+Compliance,AER,Rare,1.9,3.04,45,0,6,0,0,c,0,0.6,0.72547625,TRUE
+,,,,,,,,,,,,,,
+Disallow,AER,Rare,3.65,2.85,35,60,0,0,0,i,0,-0.219178082,0.523423923,FALSE
+,,,,,,,,,,,,,,
+Glint-Sleeve+Siphoner,AER,Rare,4.3,4.86,73,152,20,8,0,c,0,0.130232558,0.482242822,TRUE
+,,,,,,,,,,,,,,
+Yahenni+Undying+Partisan,AER,Rare,0.84,0.58,13,12,4,0,0,c,0,-0.30952381,1.091089451,FALSE
+,,,,,,,,,,,,,,
+Kari+Zev+Skyship+Raider,AER,Rare,0.77,0.65,54,124,0,6,0,c,0,-0.155844156,1.139605765,FALSE
+,,,,,,,,,,,,,,
+Greenbelt+Rampager,AER,Rare,0.2,0.43,5,0,8,0,0,c,0,1.15,2.236067977,TRUE
+,,,,,,,,,,,,,,
+Heroic+Intervention,AER,Rare,1.97,2.76,12,0,6,0,0,i,0,0.401015228,0.7124705,TRUE
+,,,,,,,,,,,,,,
+Rishkar+Peema+Renegade,AER,Rare,0.53,1.05,34,34,0,4,0,c,0,0.981132075,1.373605639,TRUE
+,,,,,,,,,,,,,,
+Aethersphere+Harvester,AER,Rare,5.87,6.33,98,38,94,4,4,a,0,0.078364566,0.412744172,TRUE
+,,,,,,,,,,,,,,
+Lifecrafters+Bestiary,AER,Rare,0.56,0.9,84,0,38,0,0,a,0,0.607142857,1.33630621,TRUE
+,,,,,,,,,,,,,,
+Metallic+Mimic,AER,Rare,3.87,4.81,3,16,0,0,0,c,0,0.242894057,0.508328568,TRUE
+,,,,,,,,,,,,,,
+Walking+Ballista,AER,Rare,12.08,15.28,180,90,0,10,0,c,0,0.264900662,0.287717669,TRUE
+,,,,,,,,,,,,,,
+Spire+of+Industry,AER,Rare,2.44,1.88,66,24,0,8,0,l,0,-0.229508197,0.6401844,FALSE
+,,,,,,,,,,,,,,
+Herald+of+Anguish,AER,Mythic Rare,1.87,1.9,2,0,4,0,0,c,0,0.016042781,0.731272424,TRUE
+,,,,,,,,,,,,,,
+Heart+of+Kiran,AER,Mythic Rare,12.05,7.65,30,34,0,8,0,c,0,-0.365145228,0.288075601,FALSE
+,,,,,,,,,,,,,,
+Authority+of+the+Consuls,KLD,Rare,2.15,1.07,41,0,18,0,2,e,0,-0.502325581,0.681994339,FALSE
+,,,,,,,,,,,,,,
+Fumigate,KLD,Rare,5.92,5.3,49,36,14,0,2,s,0,-0.10472973,0.410997468,FALSE
+,,,,,,,,,,,,,,
+Gonti+Lord+of+Luxury,KLD,Rare,0.22,0.25,48,24,18,0,0,c,0,0.136363636,2.132007164,TRUE
+,,,,,,,,,,,,,,
+Lost+Legacy,KLD,Rare,1.38,0.72,41,0,12,0,0,s,0,-0.47826087,0.851256531,FALSE
+,,,,,,,,,,,,,,
+Pia+Nalaar,KLD,Rare,0.14,0.1,79,8,108,0,8,c,0,-0.285714286,2.672612419,FALSE
+,,,,,,,,,,,,,,
+Bristling+Hydra,KLD,Rare,3.51,2.41,144,346,0,0,0,c,0,-0.313390313,0.533760513,FALSE
+,,,,,,,,,,,,,,
+Oviya+Pashiri+Sage+Lifecrafter,KLD,Rare,0.01,0.03,0,4,0,0,0,c,0,2,10,TRUE
+,,,,,,,,,,,,,,
+Bomat+Courier,KLD,Rare,1.3,1.09,78,208,0,12,0,c,0,-0.161538462,0.877058019,FALSE
+,,,,,,,,,,,,,,
+Electrostatic+Pummeler,KLD,Rare,0.1,0.24,5,16,0,0,0,c,0,1.4,3.16227766,TRUE
+,,,,,,,,,,,,,,
+Scrapheap+Scrounger,KLD,Rare,1.14,0.64,34,56,0,8,0,c,0,-0.438596491,0.936585812,FALSE
+,,,,,,,,,,,,,,
+Blooming+Marsh,KLD,Rare,3.4,3.73,107,152,0,8,0,l,0,0.097058824,0.542326145,TRUE
+,,,,,,,,,,,,,,
+Botanical+Sanctum,KLD,Rare,9.88,10.86,189,544,0,8,0,l,0,0.099190283,0.318142381,TRUE
+,,,,,,,,,,,,,,
+Concealed+Courtyard,KLD,Rare,5.17,3.32,50,56,0,8,0,l,0,-0.357833656,0.439799497,FALSE
+,,,,,,,,,,,,,,
+Inspiring+Vantage,KLD,Rare,1.93,1.94,46,32,0,8,0,l,0,0.005181347,0.719815751,TRUE
+,,,,,,,,,,,,,,
+Spirebluff+Canal,KLD,Rare,7.84,9.23,182,310,0,0,0,l,0,0.177295918,0.357142857,TRUE
+,,,,,,,,,,,,,,
+Angel+of+Invention,KLD,Mythic Rare,7.62,12.22,19,26,0,8,0,c,0,0.603674541,0.362261778,TRUE
+,,,,,,,,,,,,,,
+Cataclysmic+Gearhulk,KLD,Mythic Rare,0.32,0.25,5,4,0,0,0,c,0,-0.21875,1.767766953,FALSE
+,,,,,,,,,,,,,,
+Torrential+Gearhulk,KLD,Mythic Rare,20.29,17.04,48,40,30,0,0,c,0,-0.160177427,0.222003068,FALSE
+,,,,,,,,,,,,,,
+Noxious+Gearhulk,KLD,Mythic Rare,1.13,1.24,15,0,4,0,0,c,0,0.097345133,0.940720868,TRUE
+,,,,,,,,,,,,,,
+Chandra+Torch+of+Defiance,KLD,Mythic Rare,33.61,39.65,209,124,150,0,6,p,0,0.17970842,0.172490723,TRUE
+,,,,,,,,,,,,,,
+Nissa+Vital+Force,KLD,Mythic Rare,1.91,1.8,16,0,6,0,0,p,0,-0.057591623,0.723574605,FALSE
+,,,,,,,,,,,,,,
+Saheeli+Rai,KLD,Mythic Rare,2.1,2.03,11,0,4,0,0,p,0,-0.033333333,0.690065559,FALSE
+,,,,,,,,,,,,,,
+Skysovereign+Consul+Flagship,KLD,Mythic Rare,2.01,2.14,121,18,10,0,2,c,0,0.064676617,0.705345616,TRUE
